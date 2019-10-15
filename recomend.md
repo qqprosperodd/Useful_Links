@@ -52,9 +52,18 @@ Links to great books, columns and github pages.
 
 -----
 
+#### Jared Lander
+
+  - column
+      - <https://www.jaredlander.com>
+
+-----
+
 #### Others
 
   - UpsetR
       - <https://www.cultureofinsight.com/blog/2018/01/25/2018-01-25-visualising-twitter-follower-overlap/>
+  - ggplot tutorial
+      - <https://ggplot2tutor.com/powerlifting/squats/>
 
 -----
