@@ -65,5 +65,7 @@ Links to great books, columns and github pages.
       - <https://www.cultureofinsight.com/blog/2018/01/25/2018-01-25-visualising-twitter-follower-overlap/>
   - ggplot tutorial
       - <https://ggplot2tutor.com/powerlifting/squats/>
+  - useful package
+      - <https://www.rdocumentation.org/packages/useful/versions/1.2.6>
 
 -----
