@@ -67,5 +67,7 @@ Links to great books, columns and github pages.
       - <https://ggplot2tutor.com/powerlifting/squats/>
   - useful package
       - <https://www.rdocumentation.org/packages/useful/versions/1.2.6>
+  - clustering R
+      - <https://blog.dominodatalab.com/clustering-in-r/>
 
 -----
