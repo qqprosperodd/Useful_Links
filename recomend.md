@@ -18,6 +18,7 @@ Links to great books, columns and github pages.
         <https://rafalab.github.io/dsbook/index.html>
   - column
       - <https://simplystatistics.org/2019/08/28/you-can-replicate-almost-any-plot-with-ggplot2/>
+      - <https://simplystatistics.org/2019/08/28/you-can-replicate-almost-any-plot-with-ggplot2/>
 
 -----
 
@@ -47,8 +48,7 @@ Links to great books, columns and github pages.
 #### Julia Silge
 
   - book
-      - **Text Mining with R** :
-        <https://www.tidytextmining.com>
+      - **Text Mining with R** : <https://www.tidytextmining.com>
 
 -----
 
@@ -59,12 +59,22 @@ Links to great books, columns and github pages.
 
 -----
 
+#### Claus Wilke
+
+  - book
+      - **Fundamentals of Data Visualization** :
+        <https://serialmentor.com/dataviz/>
+
+-----
+
 #### Others
 
   - UpsetR
       - <https://www.cultureofinsight.com/blog/2018/01/25/2018-01-25-visualising-twitter-follower-overlap/>
   - ggplot tutorial
       - <https://ggplot2tutor.com/powerlifting/squats/>
+  - single cell analysis
+      - <https://osca.bioconductor.org>
   - useful package
       - <https://www.rdocumentation.org/packages/useful/versions/1.2.6>
   - clustering R
