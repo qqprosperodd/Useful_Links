@@ -67,6 +67,14 @@ Links to great books, columns and github pages.
 
 -----
 
+#### Bradly Boehmke & Brandon Greenwell
+
+  - book
+      - **Hands-On Machine Learning with R** :
+        <https://bradleyboehmke.github.io/HOML/>
+
+-----
+
 #### Others
 
   - UpsetR
