@@ -87,5 +87,10 @@ Links to great books, columns and github pages.
       - <https://www.rdocumentation.org/packages/useful/versions/1.2.6>
   - clustering R
       - <https://blog.dominodatalab.com/clustering-in-r/>
-
+  - Geocomputation with R
+      - <https://geocompr.robinlovelace.net>
+  - Hands-On Machine Learning with R
+      - <https://bradleyboehmke.github.io/HOML/>
+  - R Programming for Data Science
+      - <https://bookdown.org/rdpeng/rprogdatascience/>
 -----
